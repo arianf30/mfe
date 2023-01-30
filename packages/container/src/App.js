@@ -3,7 +3,7 @@ import MarketingApp from './components/MarketingApp';
 
 export default function () {
   return <>
-    <h1>Hi there!!! Nuevo</h1>
+    <h1>Hi there!!! Nuevo 2</h1>
     <hr />
     <MarketingApp />
   </>

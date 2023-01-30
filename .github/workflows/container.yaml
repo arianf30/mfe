@@ -23,6 +23,6 @@ jobs:
       - uses: shinyinc/action-aws-cli@v1.2
       - run: aws s3 sync dist s3://mfe-dashboard-arian/container/latest
         env:
-          AWS_ACCESS_KEY_ID: AKIA5DGBSUTKD7GNPAPD
-          AWS_SECRET_ACCES_KEY: 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
+          AWS_ACCESS_KEY_ID: AKIA5DGBSUTKACJIZLUA
+          AWS_SECRET_ACCES_KEY: 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
           AWS_DEFAULT_REGION: sa-east-1
